@@ -1,0 +1,7 @@
+[package]
+name = "rustynail"
+version = "0.1.0"
+authors = ["Greg Houle <greg@thisisfine.coffee>"]
+
+[dependencies]
+
